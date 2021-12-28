@@ -1,4 +1,4 @@
 # Ultroid
 Ultroid Deploy Error Fixed..
 
-https://heroku.com/deploy?template=https://deploy.ultroid.tech
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech)
